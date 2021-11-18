@@ -1,0 +1,29 @@
+body {
+  min-height: 2000px;
+  position: relative;
+}
+.jumbotron{
+  padding-top: 6rem;
+  background-color: #FEFBF3;
+}
+#Projects{
+  background-color: #FEFBF3;
+}
+#About{
+  background-color: #ece0c3;
+}
+#contact{
+  background-color: #ece0c3;
+}
+#footer{
+  background-color: #9D9D9D
+}
+section {
+  padding-top: 5rem;
+}
+
+.typewrite {
+  text-decoration: none ;
+  color:#000000
+} 
+* { color:#000000; text-decoration: none;}
